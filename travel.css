@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: rgb(231, 190, 136);
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+}
+.menu ul{
+    display: flex;
+    font-size: 20px;
+    list-style: none;
+}
+.menu ul li{
+    padding: 20px;
+}
+.img{
+    background-image: url(/shubash.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+}
+.mahesh{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.img2{
+    background-image: url(/shubashh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 2000px;
+    margin-left: 100px;
+}
+.p{
+    display:flex;
+    margin-right: 300px;
+}
+.lo{
+    margin-top: 50px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+.ou{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+.sr1{
+    background-image: url(/sdsd.webp);
+    height: 270px;
+    width: 500px;
+    background-repeat: no-repeat;
+    margin-left: 80px;
+}
+.sr2{
+    background-image: url(/jagmandir.webp);  
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+}
+.sr3{
+    background-image: url(/morning.webp);
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+    margin-right: 80px;
+}
+.eos{
+    display: flex;
+}
+.lm{
+    display: flex;
+    justify-content: center;
+}
+.off{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.re{
+    display: flex;
+    justify-content: center;
+}
+.no{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.io{
+    background-color: aliceblue;
+}
+
+
+.fast {
+    display: flex;
+    justify-content: space-between;
+   
+
+   }
+
+.ssss2 {
+    
+}
+
+.ppp3 {
+   font-size: 20px;
+    
+}
+
+.ppp3 li {
+    list-style: none;
+
+}
+
+.ppp3 ul li a {
+    text-decoration: none;
+}
+
+.mukesh {
+   
+    font-size: 20px;
+}
+
+.mukesh li {
+    list-style: none;
+
+}
+
+.mukesh ul li a {
+    text-decoration: none;
+}
+
+.color {
+    background-color: rgb(228, 184, 130);
+    padding:20px 70px;
+   
+}
+
+.sss {
+   text-align:center;
+   display: flex;
+   justify-content: center;
+    font-size: 30px;
+    border-top: 2px solid wheat;
+
+}
+
+samp {
+    color: aquamarine;
+}
